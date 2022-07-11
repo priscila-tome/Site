@@ -70,7 +70,7 @@ h6 {
 @media (max-width: 500px) {
 
     .grid-destinos {
-        grid-template-columns: 47.5% 47.5%;
+        grid-template-columns: 48% 48%;
     }
     
 }
